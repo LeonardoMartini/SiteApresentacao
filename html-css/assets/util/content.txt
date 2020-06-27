@@ -1,0 +1,29 @@
+Olá, meu nome é João Silva e eu sou Desenvolvedor Web!
+
+Aqui você pode saber mais sobre mim e sobre como trabalho, dar uma olhada em minha experiência e habilidades ou entrar em contato para novos jobs.
+
+Sobre mim
+
+Moro em Recife mas atendo clientes do mundo todo. Sou conhecido por fazer produtos de qualidade, durabilidade e que agregam valor para meus clientes.
+
+Trabalho usando a web como plataforma, ou seja, respiro HTML5, CSS3 e JavaScript (ou melhor: ECMASCript). Crio sites para todos, seguindo as principais diretivas de acessibilidade, responsividade e web semântica, sem descuidar da qualidade de código.
+
+Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo. Não trabalho com escopo fechado: o cliente é que decide quando o produto está pronto.
+
+Já desenvolvi projetos para grandes empresas como BMW, UOL e Google. Neles, o foco principal era entregar uma experiência imersiva e impactante para o usuário final sem descuidar do desempenho e da acessibilidade da página.
+
+Habilidades
+
+Photoshop | Sketch
+HTML5
+CSS3
+Javascript | Jquery
+Vue | Angular | React
+PHP
+Wordpress
+NodeJS
+Phyton | Ruby
+
+Contato
+
+Preencha e envie o formulário abaixo, responderei assim que possível!
